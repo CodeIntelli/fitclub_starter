@@ -11,7 +11,6 @@ const Hero = () => {
         <div className="hero">
             <div className="left-h">
                 <Header/>   
-
                 {/* The Best Ad Section */}
                 <div className="the-best-ad">
                     <div></div>
@@ -77,8 +76,6 @@ const Hero = () => {
                     </div>
                   </div>
             </div>       
-
-
         </div>        
     )
 }
